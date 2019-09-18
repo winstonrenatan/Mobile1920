@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Constraints Project</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+
+    <string name="instruction_title">How to play:</string>
+    <string name="instruction_body">Tap any box to find for the star!!!</string>
+</resources>
