@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bro Dora Explore</string>
+
+    <string name="howtoplay">
+        Hi there adventurer, we would like to welcome you from the Bro Dora Universe!
+        In this simple exploration we will see what treasure we can get.
+        Curious? First you need to know how it all will works.
+        We first need to just simply click on "START" and choose what action we want.
+        Pretty simple right? Now, lets start the exploration.
+    </string>
+
+    <string name="ending_one">Young and Rich</string>
+    <string name="ending_two">Young and Broke</string>
+    <string name="ending_three">Final Life</string>
+</resources>
