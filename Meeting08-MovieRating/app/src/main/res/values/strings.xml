@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie Rating</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_tracker">Movie Tracker</string>
+
+    <!--  Rating Strings  -->
+    <string name="how_was_the_movie">How was the movie?</string>
+    <string name="one">Abysmal</string>
+    <string name="two">Mediocre</string>
+    <string name="three">Great</string>
+    <string name="four">Superior</string>
+    <string name="five">Phenomenal</string>
+
+    <!-- Output to TextView styled with a little HTML -->
+    <string name="title"><![CDATA[<h3>Movie Lists:</h3>]]></string>
+    <string name="movie_key"><![CDATA[<b>Movie Key:</b>]]></string>
+    <string name="movie_name"><![CDATA[<b>Movie Name:</b>]]></string>
+    <string name="quality"><![CDATA[<b>Quality:</b>]]></string>
+    <string name="rating">Rating</string>
+    <string name="movie_name_no_html">Movie Title</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="update_a_movie">Update a Movie</string>
+    <string name="movie_key_no_html">Movie Key</string>
+
+</resources>
